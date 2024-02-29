@@ -1,0 +1,384 @@
+.wireframe-agenda {
+  background-color: #1b3d28;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.wireframe-agenda .div {
+  background-color: var(--secondarymain);
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.wireframe-agenda .frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.wireframe-agenda .group {
+  position: relative;
+  width: 428px;
+  height: 23px;
+  margin-right: -2px;
+}
+
+.wireframe-agenda .mdi-alpha-c-circle {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: -4977px;
+  left: 7570px;
+}
+
+.wireframe-agenda .element-rifqi-design {
+  position: absolute;
+  top: 0;
+  left: 18px;
+  font-family: "Plus Jakarta Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #010101;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe-agenda .div-wrapper {
+  display: flex;
+  width: 480px;
+  align-items: center;
+  justify-content: space-around;
+  gap: 24px;
+  position: relative;
+}
+
+.wireframe-agenda .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: var(--natural-10);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe-agenda .frame-wrapper {
+  display: flex;
+  width: 482px;
+  height: 62px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 4px;
+  position: relative;
+}
+
+.wireframe-agenda .frame-2 {
+  display: flex;
+  width: 156px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 24px;
+  padding: 4px;
+  position: relative;
+}
+
+.wireframe-agenda .basil-headphone {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.wireframe-agenda .heroicons-solid {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  background-image: url(./img/globe-alt.svg);
+  background-size: 100% 100%;
+}
+
+.wireframe-agenda .logo {
+  position: relative;
+  width: 48px;
+  height: 48px;
+}
+
+.wireframe-agenda .logo-2 {
+  position: absolute;
+  width: 41px;
+  height: 37px;
+  top: 6px;
+  left: 4px;
+  object-fit: cover;
+}
+
+.wireframe-agenda .img {
+  position: absolute;
+  width: 41px;
+  height: 37px;
+  top: 6px;
+  left: 4px;
+  object-fit: cover;
+}
+
+.wireframe-agenda .div-2 {
+  height: 52px;
+  gap: 8px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  color :#000000
+}
+
+.wireframe-agenda .heroicons-solid-home {
+  background-image: url(./img/home.svg);
+  position: relative;
+  width: 24px;
+  height: 24px;
+  background-size: 100% 100%;
+}
+
+.wireframe-agenda .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--text-s-medium-font-family);
+  font-weight: var(--text-s-medium-font-weight);
+  color: #000000;
+  font-size: var(--text-s-medium-font-size);
+  letter-spacing: var(--text-s-medium-letter-spacing);
+  line-height: var(--text-s-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--text-s-medium-font-style);
+}
+
+.wireframe-agenda .heroicons-solid-user {
+  background-image: url(./img/user.svg);
+  position: relative;
+  width: 24px;
+  height: 24px;
+  background-size: 100% 100%;
+}
+
+.wireframe-agenda .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -4px;
+  font-family: var(--text-s-medium-font-family);
+  font-weight: var(--text-s-medium-font-weight);
+  color: #000000;
+  font-size: var(--text-s-medium-font-size);
+  letter-spacing: var(--text-s-medium-letter-spacing);
+  line-height: var(--text-s-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--text-s-medium-font-style);
+}
+
+.wireframe-agenda .heroicons-solid-2 {
+  background-image: url(./img/photo.svg);
+  position: relative;
+  width: 24px;
+  height: 24px;
+  background-size: 100% 100%;
+}
+
+.wireframe-agenda .heroicons-solid-3 {
+  background-image: url(./img/newspaper.svg);
+  position: relative;
+  width: 24px;
+  height: 24px;
+  background-size: 100% 100%;
+}
+
+.wireframe-agenda .heroicons-solid-4 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  background-image: url(./img/chart-pie.svg);
+  background-size: 100% 100%;
+}
+
+.wireframe-agenda .overlap-group {
+  position: absolute;
+  width: 1136px;
+  height: 670px;
+  top: 138px;
+  left: 170px;
+}
+
+.wireframe-agenda .video {
+  display: inline-flex;
+  flex-direction: column;
+  height: 670px;
+  align-items: flex-start;
+  gap: 10px;
+  position: absolute;
+  top: 0;
+  left: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.wireframe-agenda .rectangle {
+  position: relative;
+  width: 1126px;
+  height: 416px;
+  background-color: var(--natural-100);
+  border-radius: 12px;
+}
+
+.wireframe-agenda .frame-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  position: absolute;
+  top: 352px;
+  left: 6px;
+}
+
+.wireframe-agenda .line {
+  position: relative;
+  width: 1114px;
+  height: 4px;
+  margin-top: -4px;
+}
+
+.wireframe-agenda .frame-4 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.wireframe-agenda .img-2 {
+  position: relative;
+  width: 36px;
+  height: 36px;
+}
+
+.wireframe-agenda .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--display-s-semibold-font-family);
+  font-weight: var(--display-s-semibold-font-weight);
+  color: var(--colors-natural-10);
+  font-size: var(--display-s-semibold-font-size);
+  letter-spacing: var(--display-s-semibold-letter-spacing);
+  line-height: var(--display-s-semibold-line-height);
+  white-space: nowrap;
+  font-style: var(--display-s-semibold-font-style);
+}
+
+.wireframe-agenda .frame-5 {
+  display: inline-flex;
+  align-items: center;
+  gap: 310px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.wireframe-agenda .frame-6 {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.wireframe-agenda .ellipse {
+  position: relative;
+  width: 10px;
+  height: 10px;
+  background-color: var(--colors-natural-10);
+  border-radius: 5px;
+}
+
+.wireframe-agenda .p {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--text-l-semibold-font-family);
+  font-weight: var(--text-l-semibold-font-weight);
+  color: var(--colors-natural-10);
+  font-size: var(--text-l-semibold-font-size);
+  letter-spacing: var(--text-l-semibold-letter-spacing);
+  line-height: var(--text-l-semibold-line-height);
+  white-space: nowrap;
+  font-style: var(--text-l-semibold-font-style);
+}
+
+.wireframe-agenda .rectangle-2 {
+  position: relative;
+  width: 46px;
+  height: 36px;
+  border: 2px dashed;
+  border-color: var(--colors-natural-10);
+}
+
+.wireframe-agenda .deskripsi {
+  display: flex;
+  flex-direction: column; 
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 440px;
+}
+
+.wireframe-agenda .judul-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.wireframe-agenda .text-wrapper-5 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--display-XS-semibold-font-family);
+  font-weight: var(--display-XS-semibold-font-weight);
+  color: var(--natural-10);
+  font-size: var(--display-XS-semibold-font-size);
+  letter-spacing: var(--display-XS-semibold-letter-spacing);
+  line-height: var(--display-XS-semibold-line-height);
+  font-style: var(--display-XS-semibold-font-style);
+}
+
+.wireframe-agenda .kementerian-agama {
+  position: relative;
+  align-self: stretch;
+  font-family: var(--text-XL-regular-font-family);
+  font-weight: var(--text-XL-regular-font-weight);
+  color: var(--natural-10);
+  font-size: var(--text-XL-regular-font-size);
+  letter-spacing: var(--text-XL-regular-letter-spacing);
+  line-height: var(--text-XL-regular-line-height);
+  font-style: var(--text-XL-regular-font-style);
+}
+
+.wireframe-agenda .span {
+  font-family: var(--text-XL-regular-font-family);
+  font-weight: var(--text-XL-regular-font-weight);
+  color: #e0e0e0;
+  font-size: var(--text-XL-regular-font-size);
+  letter-spacing: var(--text-XL-regular-letter-spacing);
+  line-height: var(--text-XL-regular-line-height);
+  font-style: var(--text-XL-regular-font-style);
+}

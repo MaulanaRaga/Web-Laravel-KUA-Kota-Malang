@@ -1,0 +1,495 @@
+.wireframe-layanan {
+    background-color: #1b3d28;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .wireframe-layanan .div {
+    background-color: var(--secondarymain);
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .wireframe-layanan .frame {
+    display: flex;
+    width: 1126px;
+    height: 684px;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    position: absolute;
+    top: 120px;
+    left: 180px;
+  }
+  
+  .wireframe-layanan .frame-wrapper {
+    display: flex;
+    height: 648px;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 24px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    background-color: var(--primarymain);
+    border-radius: 20px;
+  }
+  
+  .wireframe-layanan .frame-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+    padding: 4px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    margin-top: -1px;
+    margin-bottom: -1px;
+  }
+  
+  .wireframe-layanan .group {
+    position: relative;
+    width: 268px;
+    height: 268px;
+    background-color: #414040;
+    border-radius: 134px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .wireframe-layanan .frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 48px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .wireframe-layanan .layanan-umum {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Plus Jakarta Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--natural-10);
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan .text-wrapper {
+    position: relative;
+    width: 377px;
+    height: 200px;
+    font-family: "Plus Jakarta Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--natural-10);
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .wireframe-layanan .frame-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 48px;
+    padding: 4px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    margin-top: -1px;
+    margin-bottom: -1px;
+  }
+  
+  .wireframe-layanan .group-2 {
+    position: relative;
+    width: 268px;
+    height: 268px;
+    background-color: #414040;
+    border-radius: 134px;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .wireframe-layanan .frame-5 {
+    display: flex;
+    flex-direction: column;
+    width: 377px;
+    align-items: center;
+    gap: 48px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .wireframe-layanan .text-wrapper-2 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1px;
+    font-family: "Plus Jakarta Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--natural-10);
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan .p {
+    position: relative;
+    align-self: stretch;
+    font-family: "Plus Jakarta Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--natural-10);
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .wireframe-layanan .copyright {
+    display: flex;
+    flex-direction: column;
+    width: 442px;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 8px;
+    position: absolute;
+    top: 1035px;
+    left: 499px;
+  }
+  
+  .wireframe-layanan .group-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .wireframe-layanan .group-3 {
+    position: relative;
+    width: 428px;
+    height: 23px;
+    margin-right: -2px;
+  }
+  
+  .wireframe-layanan .mdi-alpha-c-circle {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: -3856px;
+    left: 4611px;
+  }
+  
+  .wireframe-layanan .element-rifqi-design {
+    position: absolute;
+    top: 0;
+    left: 18px;
+    font-family: "Plus Jakarta Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #626060;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan .frame-6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    padding: 4px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .wireframe-layanan .logo {
+    position: relative;
+    width: 48px;
+    height: 48px;
+  }
+  .wireframe-layanan .logo-2 {
+    position: absolute;
+    width: 41px;
+    height: 37px;
+    top: 6px;
+    left: 4px;
+    object-fit: cover;
+  }
+  
+  .wireframe-layanan .img {
+    position: absolute;
+    width: 102px;
+    height: 91px;
+    top: 415px;
+    left: 8689px;
+    mix-blend-mode: luminosity;
+    object-fit: cover;
+  }
+  
+  .wireframe-layanan .KANTOR-URUSAN-AGAMA {
+    position: relative;
+    width: fit-content;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #626060;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan .img-wrapper {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan .heroicons-solid {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 353px;
+    left: 7902px;
+  }
+  
+  .wireframe-layanan .heroicons-solid-2 {
+    position: absolute;
+    top: 353px;
+    left: 7854px;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan .heroicons-solid-bell {
+    position: absolute;
+    top: 353px;
+    left: 7806px;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan .frame-9 {
+    display: flex;
+    width: 268px;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    padding: 4px;
+    position: relative;
+  }
+  
+  .wireframe-layanan .ellipse {
+    position: relative;
+    width: 48px;
+    height: 48px;
+    margin-bottom: -369px;
+    margin-right: -7564px;
+    mix-blend-mode: luminosity;
+    object-fit: cover;
+  }
+  
+  .wireframe-layanan .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    font-family: "Plus Jakarta Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #626060;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan .navbar-2 {
+    display: flex;
+    width: 1126px;
+    height: 90px;
+    align-items: center;
+    gap: 164px;
+    position: absolute;
+    top: 24px;
+    left: 214px;
+  }
+  
+  .wireframe-layanan .div-wrapper {
+    display: flex;
+    width: 480px;
+    align-items: center;
+    justify-content: space-around;
+    gap: 24px;
+    position: relative;
+  }
+  
+  .wireframe-layanan .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--natural-10);
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan .frame-10 {
+    display: flex;
+    width: 482px;
+    height: 62px;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 4px;
+    position: relative;
+  }
+  
+  .wireframe-layanan .frame-11 {
+    display: flex;
+    width: 156px;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 24px;
+    padding: 4px;
+    position: relative;
+  }
+  
+  .wireframe-layanan .heroicons-solid-3 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    background-image: url(./img/globe-alt.svg);
+    background-size: 100% 100%;
+  }
+  
+  .wireframe-layanan .logo-wrapper {
+    position: relative;
+    width: 48px;
+    height: 48px;
+  }
+  
+  .wireframe-layanan .logo-2 {
+    position: absolute;
+    width: 41px;
+    height: 37px;
+    top: 6px;
+    left: 4px;
+    object-fit: cover;
+  }
+  
+  .wireframe-layanan .div-2 {
+    color: #000000;
+    height: 52px;
+    gap: 8px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+  }
+  
+  .wireframe-layanan .heroicons-solid-home {
+    position: relative;
+    background-image: url(./img/home.svg);
+    background-size: 100% 100%;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    font-family: var(--text-s-medium-font-family);
+    font-weight: var(--text-s-medium-font-weight);
+    color: #000000;
+    font-size: var(--text-s-medium-font-size);
+    letter-spacing: var(--text-s-medium-letter-spacing);
+    line-height: var(--text-s-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--text-s-medium-font-style);
+  }
+  
+  .wireframe-layanan .heroicons-solid-user {
+    position: relative;
+    background-image: url(./img/user.svg);
+    background-size: 100% 100%;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    margin-bottom: -4px;
+    font-family: var(--text-s-medium-font-family);
+    font-weight: var(--text-s-medium-font-weight);
+    color: #000000;
+    font-size: var(--text-s-medium-font-size);
+    letter-spacing: var(--text-s-medium-letter-spacing);
+    line-height: var(--text-s-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--text-s-medium-font-style);
+  }
+  
+  .wireframe-layanan .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    margin-bottom: -4px;
+    font-family: var(--text-s-medium-font-family);
+    font-weight: var(--text-s-medium-font-weight);
+    color: #000000;
+    font-size: var(--text-s-medium-font-size);
+    letter-spacing: var(--text-s-medium-letter-spacing);
+    line-height: var(--text-s-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--text-s-medium-font-style);
+  }
+
+  .wireframe-layanan .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-bottom: -4px;
+    font-family: var(--text-s-medium-font-family);
+    font-weight: var(--text-s-medium-font-weight);
+    color: #000000;
+    font-size: var(--text-s-medium-font-size);
+    letter-spacing: var(--text-s-medium-letter-spacing);
+    line-height: var(--text-s-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--text-s-medium-font-style);
+  }
+
+  .wireframe-layanan .heroicons-solid-4 {
+    position: relative;
+    background-image: url(./img/photo.svg);
+    background-size: 100% 100%;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan .heroicons-solid-5 {
+    position: relative;
+    background-image: url(./img/newspaper.svg);
+    background-size: 100% 100%;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan .heroicons-solid-6 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    background-image: url(./img/chart-pie.svg);
+    background-size: 100% 100%;
+  }
+  

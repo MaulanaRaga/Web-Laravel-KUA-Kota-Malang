@@ -1,0 +1,680 @@
+.wireframe-beranda .side-bar {
+  display: flex;
+  width: 90px;
+  gap: 17px;
+  position: absolute;
+  top: 24px;
+  left: 60px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-agenda .side-bar {
+  display: flex;
+  width: 90px;
+  gap: 17px;
+  position: absolute;
+  top: 24px;
+  left: 60px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-data .side-bar {
+  display: flex;
+  width: 90px;
+  gap: 17px;
+  position: absolute;
+  top: 24px;
+  left: 60px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-profile .side-bar {
+  display: flex;
+  width: 90px;
+  gap: 17px;
+  position: absolute;
+  top: 24px;
+  left: 60px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan .side-bar {
+  display: flex;
+  width: 90px;
+  gap: 17px;
+  position: absolute;
+  top: 24px;
+  left: 60px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan-umum .side-bar {
+  display: flex;
+  width: 90px;
+  gap: 17px;
+  position: absolute;
+  top: 24px;
+  left: 60px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan-pendaftaran .side-bar {
+  display: flex;
+  width: 90px;
+  gap: 24px;
+  position: absolute;
+  top: 24px;
+  left: 100px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-beranda .frame-7 {
+  display: flex;
+  height: 62px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-agenda .frame-7 {
+  display: flex;
+  height: 62px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-data .frame-7 {
+  display: flex;
+  height: 62px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-profile .frame-7 {
+  display: flex;
+  height: 62px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-layanan .frame-7 {
+  display: flex;
+  height: 62px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-layanan-umum .frame-7 {
+  display: flex;
+  height: 62px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-layanan-pendaftaran .frame-7 {
+  display: flex;
+  height: 62px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-beranda .frame-8 {
+  display: flex;
+  width: 156px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 24px;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-agenda .frame-8 {
+  display: flex;
+  width: 156px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 24px;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-data .frame-8 {
+  display: flex;
+  width: 156px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 24px;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-profile .frame-8 {
+  display: flex;
+  width: 156px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 24px;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-layanan .frame-8 {
+  display: flex;
+  width: 156px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 24px;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-layanan-umum .frame-8 {
+  display: flex;
+  width: 156px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 24px;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-layanan-pendaftaran .frame-8 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 24px;
+  padding: 4px;
+  position: relative;
+}
+.wireframe-beranda .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: var(--natural-10);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.wireframe-agenda .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: var(--natural-10);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.wireframe-data .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: var(--natural-10);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.wireframe-profile .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: var(--natural-10);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.wireframe-layanan .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: var(--natural-10);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.wireframe-layanan-umum .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: var(--natural-10);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.wireframe-layanan-pendaftaran .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: var(--natural-10);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.wireframe-beranda .side-bar-logo {
+  display: inline-flex;
+  gap: 8px;
+  padding: 21px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--tertiarymain);
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-agenda .side-bar-logo {
+  display: inline-flex;
+  gap: 8px;
+  padding: 21px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--tertiarymain);
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-data .side-bar-logo {
+  display: inline-flex;
+  gap: 8px;
+  padding: 21px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--tertiarymain);
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-profile .side-bar-logo {
+  display: inline-flex;
+  gap: 8px;
+  padding: 21px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--tertiarymain);
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan .side-bar-logo {
+  display: inline-flex;
+  gap: 8px;
+  padding: 21px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--tertiarymain);
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan-umum .side-bar-logo {
+  display: inline-flex;
+  gap: 8px;
+  padding: 21px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--tertiarymain);
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan-pendaftaran .side-bar-logo {
+  display: inline-flex;
+  gap: 8px;
+  padding: 21px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--tertiarymain);
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-beranda .side-baricon-text-wrapper {
+  display: flex;
+  width: 90px;
+  height: 862px;
+  gap: 326px;
+  padding: 28px 32px;
+  position: relative;
+  background-color: #F9D849;
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-agenda .side-baricon-text-wrapper {
+  display: flex;
+  width: 90px;
+  height: 862px;
+  gap: 326px;
+  padding: 28px 32px;
+  position: relative;
+  background-color: #F9D849;
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-data .side-baricon-text-wrapper {
+  display: flex;
+  width: 90px;
+  height: 862px;
+  gap: 326px;
+  padding: 28px 32px;
+  position: relative;
+  background-color: #F9D849;
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-profile .side-baricon-text-wrapper {
+  display: flex;
+  width: 90px;
+  height: 862px;
+  gap: 326px;
+  padding: 28px 32px;
+  position: relative;
+  background-color: #F9D849;
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan .side-baricon-text-wrapper {
+  display: flex;
+  width: 90px;
+  height: 862px;
+  gap: 326px;
+  padding: 28px 32px;
+  position: relative;
+  background-color: #F9D849;
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan-umum .side-baricon-text-wrapper {
+  display: flex;
+  width: 90px;
+  height: 862px;
+  gap: 326px;
+  padding: 28px 32px;
+  position: relative;
+  background-color: #F9D849;
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan-pendaftaran .side-baricon-text-wrapper {
+  display: flex;
+  width: 90px;
+  height: 862px;
+  gap: 326px;
+  padding: 28px 32px;
+  position: relative;
+  background-color: #F9D849;
+  border-radius: 24px;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-beranda .side-baricon-text {
+  height: 452px;
+  justify-content: space-between;
+  margin-left: -13.5px;
+  margin-right: -13.5px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.wireframe-agenda .side-baricon-text {
+  height: 452px;
+  justify-content: space-between;
+  margin-left: -13.5px;
+  margin-right: -13.5px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.wireframe-data .side-baricon-text {
+  height: 452px;
+  justify-content: space-between;
+  margin-left: -13.5px;
+  margin-right: -13.5px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.wireframe-profile .side-baricon-text {
+  height: 452px;
+  justify-content: space-between;
+  margin-left: -13.5px;
+  margin-right: -13.5px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.wireframe-layanan .side-baricon-text {
+  height: 452px;
+  justify-content: space-between;
+  margin-left: -13.5px;
+  margin-right: -13.5px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.wireframe-layanan-umum .side-baricon-text {
+  height: 452px;
+  justify-content: space-between;
+  margin-left: -13.5px;
+  margin-right: -13.5px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.wireframe-layanan-pendaftaran .side-baricon-text {
+  height: 452px;
+  justify-content: space-between;
+  margin-left: -13.5px;
+  margin-right: -13.5px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.wireframe-beranda .side-bar-profil {
+  display: inline-flex;
+  height: 47px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+}
+.wireframe-agenda .side-bar-profil {
+  display: inline-flex;
+  height: 47px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-data .side-bar-profil {
+  display: inline-flex;
+  height: 47px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-profile .side-bar-profil {
+  display: inline-flex;
+  height: 47px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan .side-bar-profil {
+  display: inline-flex;
+  height: 47px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan-umum .side-bar-profil {
+  display: inline-flex;
+  height: 47px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan-pendaftaran .side-bar-profil {
+  display: inline-flex;
+  height: 47px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-beranda .side-bar-data {
+  display: inline-flex;
+  height: 59px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-agenda .side-bar-data {
+  display: inline-flex;
+  height: 59px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-data .side-bar-data {
+  display: inline-flex;
+  height: 59px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-profile .side-bar-data {
+  display: inline-flex;
+  height: 59px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan .side-bar-data {
+  display: inline-flex;
+  height: 59px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan-umum .side-bar-data {
+  display: inline-flex;
+  height: 59px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-layanan-pendaftaran .side-bar-data {
+  display: inline-flex;
+  height: 59px;
+  gap: 8px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+.wireframe-beranda .navbar {
+  display: flex;
+  width: 1126px;
+  height: 90px;
+  align-items: center;
+  gap: 200px;
+  position: absolute;
+  top: 24px;
+  left: 160px;
+}
+.wireframe-agenda .navbar {
+  display: flex;
+  width: 1126px;
+  height: 90px;
+  align-items: center;
+  gap: 200px;
+  position: absolute;
+  top: 24px;
+  left: 160px;
+}
+.wireframe-data .navbar {
+  display: flex;
+  width: 1126px;
+  height: 90px;
+  align-items: center;
+  gap: 200px;
+  position: absolute;
+  top: 24px;
+  left: 160px;
+}
+.wireframe-profile .navbar {
+  display: flex;
+  width: 1126px;
+  height: 90px;
+  align-items: center;
+  gap: 200px;
+  position: absolute;
+  top: 24px;
+  left: 160px;
+}
+.wireframe-layanan .navbar {
+  display: flex;
+  width: 1126px;
+  height: 90px;
+  align-items: center;
+  gap: 200px;
+  position: absolute;
+  top: 24px;
+  left: 160px;
+}
+.wireframe-layanan-umum .navbar {
+  display: flex;
+  width: 1206px;
+  height: 90px;
+  align-items: center;
+  gap: 200px;
+  position: absolute;
+  top: 24px;
+  left: 160px;
+}
+.wireframe-layanan-pendaftaran .navbar {
+  display: flex;
+  width: 1106px;
+  height: 90px;
+  align-items: center;
+  gap: 200px;
+  position: absolute;
+  top: 24px;
+  left: 205px;
+}

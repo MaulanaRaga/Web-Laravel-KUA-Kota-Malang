@@ -1,0 +1,3 @@
+WEB LARAVEL SISTEM INFORMASI KUA KOTA MALANG
+
+Setting .env DB_DATABASE= kementrian_kua

@@ -1,0 +1,476 @@
+.wireframe-layanan-umum {
+    background-color: #1b3d28;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .wireframe-layanan-umum .div {
+    background-color: var(--secondarymain);
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .wireframe-layanan-umum .copyright {
+    display: flex;
+    flex-direction: column;
+    width: 442px;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 8px;
+    position: absolute;
+    top: 1035px;
+    left: 499px;
+  }
+  
+  .wireframe-layanan-umum .frame {
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    align-items: center;
+    position: relative;
+  }
+  
+  .wireframe-layanan-umum .group {
+    position: relative;
+    width: 428px;
+    height: 23px;
+    margin-right: -2px;
+  }
+  
+  .wireframe-layanan-umum .mdi-alpha-c-circle {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: -4992px;
+    left: 4611px;
+  }
+  
+  .wireframe-layanan-umum .element-rifqi-design {
+    position: absolute;
+    top: 0;
+    left: 18px;
+    font-family: "Plus Jakarta Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #626060;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  
+  .wireframe-layanan-umum .frame-2 {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding: 4px;
+    flex: 1;
+    flex-grow: 1;
+    align-items: center;
+    position: relative;
+  }
+  
+  .wireframe-layanan-umum .logo {
+    position: relative;
+    width: 48px;
+    height: 48px;
+  }
+  
+  .wireframe-layanan-umum .img {
+    position: absolute;
+    width: 102px;
+    height: 91px;
+    top: -721px;
+    left: 8689px;
+    mix-blend-mode: luminosity;
+    object-fit: cover;
+  }
+  
+  .wireframe-layanan-umum .KANTOR-URUSAN-AGAMA {
+    position: relative;
+    width: fit-content;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #626060;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan-umum .frame-3 {
+    display: flex;
+    width: 512px;
+    justify-content: center;
+    padding: 4px;
+    align-items: center;
+    position: relative;
+  }
+  
+  .wireframe-layanan-umum .frame-4 {
+    display: flex;
+    width: 156px;
+    justify-content: center;
+    gap: 24px;
+    padding: 4px;
+    align-items: center;
+    position: relative;
+  }
+  
+  .wireframe-layanan-umum .img-wrapper {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan-umum .heroicons-solid {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: -783px;
+    left: 7902px;
+  }
+  
+  .wireframe-layanan-umum .heroicons-solid-2 {
+    position: absolute;
+    top: -783px;
+    left: 7854px;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan-umum .heroicons-solid-bell {
+    position: absolute;
+    top: -783px;
+    left: 7806px;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan-umum .frame-5 {
+    display: flex;
+    width: 268px;
+    justify-content: center;
+    gap: 24px;
+    padding: 4px;
+    align-items: center;
+    position: relative;
+  }
+  
+  .wireframe-layanan-umum .ellipse {
+    width: 48px;
+    height: 48px;
+    margin-top: -767px;
+    margin-right: -7564px;
+    mix-blend-mode: luminosity;
+    position: relative;
+    object-fit: cover;
+  }
+  
+  .wireframe-layanan-umum .text-wrapper {
+    position: relative;
+    width: fit-content;
+    font-family: "Plus Jakarta Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #626060;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan-umum .conten {
+    display: flex;
+    width: 1126px;
+    height: 368px;
+    align-items: flex-start;
+    gap: 13px;
+    position: absolute;
+    top: 138px;
+    left: 180px;
+  }
+  
+  .wireframe-layanan-umum .layer {
+    display: flex;
+    flex-direction: column;
+    height: 364px;
+    align-items: center;
+    gap: 22px;
+    padding: 24px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    background-color: var(--primarymain);
+    border-radius: 12px;
+  }
+  
+  .wireframe-layanan-umum .frame-6 {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 22px;
+    flex: 0 0 auto;
+    margin-left: -5.67px;
+    margin-right: -5.67px;
+    align-items: center;
+    position: relative;
+  }
+  
+  .wireframe-layanan-umum .p {
+    position: relative;
+    width: 324px;
+    margin-top: -1px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan-umum .ellipse-2 {
+    width: 164px;
+    height: 164px;
+    position: relative;
+    object-fit: cover;
+  }
+  
+  .wireframe-layanan-umum .button {
+    width: 334px;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 8px;
+    padding: 10px 8px;
+    position: relative;
+    margin-left: -12px;
+    margin-right: -12px;
+    background-color: var(--tertiarymain);
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+  
+  .wireframe-layanan-umum .text-wrapper-2 {
+    position: relative;
+    flex: 1;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-weight: 400;
+    color: var(--natural-100);
+    font-size: 20px;
+    background-color: rgb(249 216 73);
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan-umum .text-wrapper-3 {
+    position: relative;
+    width: 235px;
+    margin-top: -1px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan-umum .text-wrapper-4 {
+    position: relative;
+    width: 179px;
+    margin-top: -1px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan-umum .conten-2 {
+    display: flex;
+    width: 1126px;
+    height: 368px;
+    align-items: flex-start;
+    gap: 13px;
+    position: absolute;
+    top: 530px;
+    left: 180px;
+  }
+  
+  .wireframe-layanan-umum .text-wrapper-5 {
+    position: relative;
+    width: 255px;
+    margin-top: -1px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan-umum .text-wrapper-6 {
+    position: relative;
+    width: 327px;
+    margin-top: -1px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-layanan-umum .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    font-family: var(--text-s-medium-font-family);
+    font-weight: var(--text-s-medium-font-weight);
+    color: #000000;
+    font-size: var(--text-s-medium-font-size);
+    letter-spacing: var(--text-s-medium-letter-spacing);
+    line-height: var(--text-s-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--text-s-medium-font-style);
+  }
+  
+  .wireframe-layanan-umum .navbar-2 {
+    display: flex;
+    width: 1126px;
+    height: 90px;
+    align-items: center;
+    gap: 164px;
+    position: absolute;
+    top: 24px;
+    left: 214px;
+  }
+  
+  .wireframe-layanan-umum .div-wrapper {
+    display: flex;
+    width: 480px;
+    align-items: center;
+    justify-content: space-around;
+    gap: 24px;
+    position: relative;
+  }
+  
+  .wireframe-layanan-umum .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-bottom: -4px;
+    font-family: var(--text-s-medium-font-family);
+    font-weight: var(--text-s-medium-font-weight);
+    color: #000000;
+    font-size: var(--text-s-medium-font-size);
+    letter-spacing: var(--text-s-medium-letter-spacing);
+    line-height: var(--text-s-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--text-s-medium-font-style);
+  }
+  
+  .wireframe-layanan-umum .frame-wrapper {
+    display: flex;
+    width: 482px;
+    height: 62px;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 4px;
+    position: relative;
+  }
+  
+  .wireframe-layanan-umum .heroicons-solid-3 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    background-image: url(./img/globe-alt.svg);
+    background-size: 100% 100%;
+  }
+  
+  .wireframe-layanan-umum .logo-wrapper {
+    position: relative;
+    width: 48px;
+    height: 48px;
+  }
+  
+  .wireframe-layanan-umum .logo-2 {
+    position: absolute;
+    width: 41px;
+    height: 37px;
+    top: 6px;
+    left: 4px;
+    object-fit: cover;
+  }
+  
+  .wireframe-layanan-umum .div-2 {
+    color: #000000;
+    height: 52px;
+    gap: 8px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    text-decoration: none;
+  }
+  
+  .wireframe-layanan-umum .heroicons-solid-home {
+    position: relative;
+    background-image: url(./img/home.svg);
+    background-size: 100% 100%;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan-umum .heroicons-solid-user {
+    position: relative;
+    background-image: url(./img/user.svg);
+    background-size: 100% 100%;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan-umum .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    margin-bottom: -4px;
+    font-family: var(--text-s-medium-font-family);
+    font-weight: var(--text-s-medium-font-weight);
+    color: #000000;
+    font-size: var(--text-s-medium-font-size);
+    letter-spacing: var(--text-s-medium-letter-spacing);
+    line-height: var(--text-s-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--text-s-medium-font-style);
+  }
+  
+  .wireframe-layanan-umum .heroicons-solid-4 {
+    position: relative;
+    background-image: url(./img/photo.svg);
+    background-size: 100% 100%;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan-umum .heroicons-solid-5 {
+    position: relative;
+    background-image: url(./img/newspaper.svg);
+    background-size: 100% 100%;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-layanan-umum .heroicons-solid-6 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    background-image: url(./img/chart-pie.svg);
+    background-size: 100% 100%;
+  }
+  

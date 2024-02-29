@@ -1,0 +1,346 @@
+.wireframe-profile {
+    background-color: #1b3d28;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .wireframe-profile .div {
+    background-color: var(--secondarymain);
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .wireframe-profile .copyright {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 8px;
+    position: absolute;
+    top: 1035px;
+    left: 499px;
+  }
+  
+  .wireframe-profile .frame {
+    justify-content: center;
+    gap: 2px;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .wireframe-profile .group {
+    position: relative;
+    width: 428px;
+    height: 23px;
+    margin-right: -2px;
+  }
+  
+  .wireframe-profile .mdi-alpha-c-circle {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: -6172px;
+    left: 9049px;
+  }
+  
+  .wireframe-profile .element-rifqi-design {
+    position: absolute;
+    top: 0;
+    left: 18px;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-weight: 400;
+    color: #010101;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-profile .div-wrapper {
+    width: 480px;
+    justify-content: space-around;
+    gap: 24px;
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .wireframe-profile .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-weight: 700;
+    color: var(--natural-10);
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wireframe-profile .frame-wrapper {
+    width: 482px;
+    height: 62px;
+    justify-content: flex-end;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .wireframe-profile .frame-2 {
+    width: 156px;
+    justify-content: flex-end;
+    gap: 24px;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .wireframe-profile .basil-headphone {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wireframe-profile .heroicons-solid {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    background-image: url(https://c.animaapp.com/7mvMVVkE/img/heroicons-solid-globe-alt.svg);
+    background-size: 100% 100%;
+  }
+  
+  .wireframe-profile .logo {
+    position: relative;
+    width: 48px;
+    height: 48px;
+  }
+  .wireframe-profile .logo-2 {
+    position: absolute;
+    width: 41px;
+    height: 37px;
+    top: 6px;
+    left: 4px;
+    object-fit: cover;
+  }
+  
+  .wireframe-profile .img {
+    position: absolute;
+    width: 41px;
+    height: 37px;
+    top: 6px;
+    left: 4px;
+    object-fit: cover;
+  }
+  
+  .wireframe-profile .div-2 {
+    color: #000000;
+    height: 52px;
+    gap: 8px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+  }
+  
+  .wireframe-profile .heroicons-solid-home {
+    background-image: url(https://c.animaapp.com/7mvMVVkE/img/heroicons-solid-home.svg);
+    position: relative;
+    width: 24px;
+    height: 24px;
+    background-size: 100% 100%;
+  }
+  
+  .wireframe-profile .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    font-family: var(--text-s-medium-font-family);
+    font-weight: var(--text-s-medium-font-weight);
+    color: #000000;
+    font-size: var(--text-s-medium-font-size);
+    letter-spacing: var(--text-s-medium-letter-spacing);
+    line-height: var(--text-s-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--text-s-medium-font-style);
+  }
+  
+  .wireframe-profile .heroicons-solid-user {
+    background-image: url(https://c.animaapp.com/7mvMVVkE/img/heroicons-solid-user.svg);
+    position: relative;
+    width: 24px;
+    height: 24px;
+    background-size: 100% 100%;
+  }
+  
+  .wireframe-profile .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-bottom: -4px;
+    font-family: var(--text-s-medium-font-family);
+    font-weight: var(--text-s-medium-font-weight);
+    color: #000000;
+    font-size: var(--text-s-medium-font-size);
+    letter-spacing: var(--text-s-medium-letter-spacing);
+    line-height: var(--text-s-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--text-s-medium-font-style);
+  }
+  
+  .wireframe-profile .heroicons-solid-2 {
+    background-image: url(https://c.animaapp.com/7mvMVVkE/img/heroicons-solid-photo.svg);
+    position: relative;
+    width: 24px;
+    height: 24px;
+    background-size: 100% 100%;
+  }
+  
+  .wireframe-profile .heroicons-solid-3 {
+    background-image: url(https://c.animaapp.com/7mvMVVkE/img/heroicons-solid-newspaper.svg);
+    position: relative;
+    width: 24px;
+    height: 24px;
+    background-size: 100% 100%;
+  }
+  .wireframe-profile .heroicons-solid-4 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    background-image: url(https://c.animaapp.com/7mvMVVkE/img/heroicons-solid-chart-pie-1.svg);
+    background-size: 100% 100%;
+  }
+  
+  .wireframe-profile .logo-3 {
+    position: absolute;
+    width: 172px;
+    height: 151px;
+    top: 138px;
+    left: 634px;
+    background-image: url(https://c.animaapp.com/7mvMVVkE/img/logo@2x.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .wireframe-profile .judul-visi-misi {
+    display: flex;
+    flex-direction: column;
+    width: 1041px;
+    align-items: flex-start;
+    gap: 12px;
+    position: absolute;
+    top: 313px;
+    left: 214px;
+  }
+  
+  .wireframe-profile .text-judul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .wireframe-profile .p {
+    position: relative;
+    flex: 1;
+    margin-top: -1px;
+    font-family: var(--display-XS-bold-font-family);
+    font-weight: var(--display-XS-bold-font-weight);
+    color: #ffffff;
+    font-size: var(--display-XS-bold-font-size);
+    letter-spacing: var(--display-XS-bold-letter-spacing);
+    line-height: var(--display-XS-bold-line-height);
+    font-style: var(--display-XS-bold-font-style);
+  }
+  
+  .wireframe-profile .div-wrapper-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .wireframe-profile .div-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .wireframe-profile .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--text-XL-regular-font-family);
+    font-weight: var(--text-XL-regular-font-weight);
+    color: #ffffff;
+    font-size: var(--text-XL-regular-font-size);
+    letter-spacing: var(--text-XL-regular-letter-spacing);
+    line-height: var(--text-XL-regular-line-height);
+    white-space: nowrap;
+    font-style: var(--text-XL-regular-font-style);
+  }
+  
+  .wireframe-profile .text-wrapper-5 {
+    position: relative;
+    width: 1021px;
+    font-family: var(--text-l-regular-font-family);
+    font-weight: var(--text-l-regular-font-weight);
+    color: #ffffff;
+    font-size: var(--text-l-regular-font-size);
+    letter-spacing: var(--text-l-regular-letter-spacing);
+    line-height: var(--text-l-regular-line-height);
+    font-style: var(--text-l-regular-font-style);
+  }
+  
+  .wireframe-profile .flexcontainer {
+    display: flex;
+    flex-direction: column;
+    width: 1021px;
+    align-items: flex-start;
+    gap: 15px;
+  }
+  
+  .wireframe-profile .text {
+    position: relative;
+    align-self: stretch;
+    font-family: var(--text-XL-regular-font-family);
+    font-weight: var(--text-XL-regular-font-weight);
+    color: #ffffff;
+    font-size: var(--text-XL-regular-font-size);
+    letter-spacing: var(--text-XL-regular-letter-spacing);
+    line-height: var(--text-XL-regular-line-height);
+    font-style: var(--text-XL-regular-font-style);
+  }
+  
+  .wireframe-profile .span {
+    font-family: var(--text-XL-regular-font-family);
+    font-weight: var(--text-XL-regular-font-weight);
+    color: #ffffff;
+    font-size: var(--text-XL-regular-font-size);
+    letter-spacing: var(--text-XL-regular-letter-spacing);
+    line-height: var(--text-XL-regular-line-height);
+    font-style: var(--text-XL-regular-font-style);
+  }
+  
